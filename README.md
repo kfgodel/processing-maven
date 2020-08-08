@@ -20,5 +20,5 @@ some manual actions that cannot be automated
 embedded libraries  
 4. Execute [the pom creation script](scripts/create-poms.sh) to create poms for each
 extracted library
-5. Exeecute [the install script](scripts/install-artifacts.sh) to install each libreary
+5. Execute [the install script](scripts/install-artifacts.sh) to install each libreary
 in your local repo 
